@@ -17,7 +17,7 @@ A simple movie trailer website project for Udacity's full-stack nanodegree progr
 
 #How to run the page?
 
-1-Open IDLE .
+1-Open IDLE (Python 3.3) .
 
 2-Choose the location of the downloaded file then choose entertainment_center.py then click open.
 
