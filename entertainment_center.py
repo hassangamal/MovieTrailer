@@ -6,7 +6,12 @@ movies = []
 with open('data.txt') as json_file:
     data = json.load(json_file)
     for p in data['movies']:
-        moive=media.Movie(p['title'], p['storyline'],p['poster_image_url'],p['trailer_youtube_url'],p['year'])
-        movies.append(moive)
+        title = p['title']
+        storyline = p['storyline']
+        image_url = p['poster_image_url']
+        youtube_url = p['trailer_youtube_url']
+        year = p['year']
+        movie = media.Movie(title, storyline, image_url, youtube_url, year)
+        movies.append(movie)
 # to show all moives in browser
 fresh_tomatoes.open_movies_page(movies)
