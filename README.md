@@ -5,6 +5,7 @@ A simple movie trailer website project for Udacity's full-stack nanodegree progr
 fresh_tomatoes.html - This is page of the movie listing page
 
 #Source files:
+
 entertainment_center.py
 fresh_tomatoes.py
 media.py
