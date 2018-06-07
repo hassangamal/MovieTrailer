@@ -3,22 +3,23 @@ A simple movie trailer website project for Udacity's full-stack nanodegree progr
 
 #Source code :
 
-fresh_tomatoes.html - This is page of the movie listing page
+1-fresh_tomatoes.html - This is page of the movie listing page
 
 #Source files:
 
-entertainment_center.py
+1-entertainment_center.py
 
-fresh_tomatoes.py
+2-fresh_tomatoes.py
 
-media.py
+3-media.py
 
-data.py
+4-data.py
 
 #How to run the page?
-Open IDLE .
 
-Choose the location of the downloaded file then choose entertainment_center.py then click open.
+1-Open IDLE .
 
-click F5
+2-Choose the location of the downloaded file then choose entertainment_center.py then click open.
+
+3-click F5
 
